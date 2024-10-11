@@ -1,7 +1,7 @@
 import './ProjectPage.css'
 import './ProjectDetail.css'
 import Navbar from './Navbar'
-import Mouse from '../mouse'
+import Mouse from '../Mouse.jsx';
 import Contact from './Contact'
 
 function ProjectPage() {

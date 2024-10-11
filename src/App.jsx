@@ -12,7 +12,7 @@ import LazyLoad from 'react-lazyload';
 import mypicture from '././assets/mypicture.png'
 
 
-import Mouse from './mouse';
+import Mouse from './Mouse.jsx';
 import html from '../public/icon/html.svg'
 import css from '../public/icon/css.svg'
 import js from '../public/icon/js.svg'
