@@ -9,11 +9,11 @@ import Califonia from './components/Califonia.jsx';
 import ProjectPage from './components/ProjectPage.jsx';
 
 const router = createBrowserRouter([
-  {path: "/", element: <App />,},
+  {path: "/my-profile-website", element: <App />,},
   {path: "/project", element: <ProjectPage />,},
-  {path: "/project/nawintrade", element: <Nawintrade />},
-  {path: "/project/Caraball", element: <Caraball />},
-  {path: "/project/Califonia", element: <Califonia />},
+  {path: "/my-profile-website/project/nawintrade", element: <Nawintrade />},
+  {path: "/my-profile-website/project/Caraball", element: <Caraball />},
+  {path: "/my-profile-website/project/Califonia", element: <Califonia />},
 ]);
 
 createRoot(document.getElementById('root')).render(

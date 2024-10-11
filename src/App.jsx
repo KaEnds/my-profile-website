@@ -176,7 +176,7 @@ function App() {
                 <div className='grid-item1'>
                   <Fade triggerOnce duration={1000} direction='left'>
                     <div className="project-box">
-                        <a href="/project/nawintrade"><img src="./../public/project_image/" alt="" />
+                        <a href="/my-profile-website/project/nawintrade"><img src="./../public/project_image/" alt="" />
                           <div className='image image-1'>
                             <svg xmlns="http://www.w3.org/2000/svg" width="50%" height="50%" fill="currentColor" className="bi bi-currency-bitcoin" viewBox="0 0 16 16">
                               <path d="M5.5 13v1.25c0 .138.112.25.25.25h1a.25.25 0 0 0 .25-.25V13h.5v1.25c0 .138.112.25.25.25h1a.25.25 0 0 0 .25-.25V13h.084c1.992 0 3.416-1.033 3.416-2.82 0-1.502-1.007-2.323-2.186-2.44v-.088c.97-.242 1.683-.974 1.683-2.19C11.997 3.93 10.847 3 9.092 3H9V1.75a.25.25 0 0 0-.25-.25h-1a.25.25 0 0 0-.25.25V3h-.573V1.75a.25.25 0 0 0-.25-.25H5.75a.25.25 0 0 0-.25.25V3l-1.998.011a.25.25 0 0 0-.25.25v.989c0 .137.11.25.248.25l.755-.005a.75.75 0 0 1 .745.75v5.505a.75.75 0 0 1-.75.75l-.748.011a.25.25 0 0 0-.25.25v1c0 .138.112.25.25.25zm1.427-8.513h1.719c.906 0 1.438.498 1.438 1.312 0 .871-.575 1.362-1.877 1.362h-1.28zm0 4.051h1.84c1.137 0 1.756.58 1.756 1.524 0 .953-.626 1.45-2.158 1.45H6.927z"/>
@@ -186,7 +186,7 @@ function App() {
                       <div className='text'>
                         <div className='name'>Nawin trade</div>
                         <div className='description'>The Stock trading website developed for the Database (CPE241) term project.</div>
-                        <a href='/project/nawintrade' className='view'>View project</a>
+                        <a href='/my-profile-website/project/nawintrade' className='view'>View project</a>
 
                       </div>
                     </div>
@@ -195,7 +195,7 @@ function App() {
                 <div className='grid-item2'>
                   <Fade triggerOnce duration={1000} direction='right'>
                     <div className="project-box">
-                      <a href="/project/Caraball">
+                      <a href="/my-profile-website/project/Caraball">
                         <div className='image image-1'>
                             <svg xmlns="http://www.w3.org/2000/svg" width="50%" height="50%" fill="currentColor" className="bi bi-controller" viewBox="0 0 16 16">
                               <path d="M11.5 6.027a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0m-1.5 1.5a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1m2.5-.5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0m-1.5 1.5a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1m-6.5-3h1v1h1v1h-1v1h-1v-1h-1v-1h1z"/>
@@ -206,7 +206,7 @@ function App() {
                       <div className='text'>
                         <div className='name'>Caraball</div>
                         <div className='description'>A 3D multiplayer car football league battle game in CPE101 (Engineer exporation)</div>
-                        <a href="/project/Caraball" className='view'>View project</a>
+                        <a href="/my-profile-website/project/Caraball" className='view'>View project</a>
 
                       </div>
                     </div>
@@ -216,7 +216,7 @@ function App() {
                 <div className='grid-item3'>
                   <Fade triggerOnce duration={1000} direction='left'>
                     <div className="project-box">
-                      <a href='/project/califonia' className='view'>
+                      <a href='/my-profile-website/project/califonia' className='view'>
                         <div className='image image-1'>
                           <svg xmlns="http://www.w3.org/2000/svg" width="40%" height="40%" fill="currentColor" className="bi bi-house" viewBox="0 0 16 16">
                             <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L2 8.207V13.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V8.207l.646.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293zM13 7.207V13.5a.5.5 0 0 1-.5.5h-9a.5.5 0 0 1-.5-.5V7.207l5-5z"/>
@@ -226,7 +226,7 @@ function App() {
                       <div className='text'>
                         <div className='name'>Califonia Housing Price Visualization</div>
                         <div className='description'>Data visualization and exploration of California housing prices using Python.</div>
-                        <a href='/project/califonia' className='view'>View project</a>
+                        <a href='/my-profile-website/project/califonia' className='view'>View project</a>
 
                       </div>
                     </div>
