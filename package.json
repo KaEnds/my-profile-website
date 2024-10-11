@@ -12,7 +12,7 @@
   "dependencies": {
     "@gsap/react": "^2.1.1",
     "bootstrap": "^5.3.3",
-    "framer-motion": "^11.5.4",
+    "framer-motion": "^11.11.7",
     "jquery": "^3.7.1",
     "react": "^18.3.1",
     "react-awesome-reveal": "^4.2.14",
