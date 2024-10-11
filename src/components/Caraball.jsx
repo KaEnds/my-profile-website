@@ -58,7 +58,7 @@ function Caraball() {
          <div className="row my-3">
          <div className="col-12 d-flex flex-column justify-content-between">
             <video width="100%" controls autoPlay muted>
-              <source src="./../public/project_vedio/single video.mp4" type="video/mp4" />
+              <source src="./../public/project_vedio/single-video.mp4" type="video/mp4" />
             </video>
           </div>
          </div>
@@ -79,7 +79,7 @@ function Caraball() {
          <div className="row my-3 vedio-row">
           <div className="col-12 d-flex flex-column justify-content-between">
             <video width="100%" controls autoPlay muted>
-              <source src="./../public/project_vedio/multi video.mp4" type="video/mp4" />
+              <source src="./../public/project_vedio/multi-video.mp4" type="video/mp4" />
             </video>
           </div>
          </div>
